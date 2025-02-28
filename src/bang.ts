@@ -41221,6 +41221,15 @@ export const bangs = [
   },
   {
     c: "Online Services",
+    d: "https://search.techfiles.in",
+    r: 1942262,
+    s: "SearXNG",
+    sc: "SearXNG",
+    t: "xng",
+    u: "https://search.techfiles.in/search?q={{{s}}}",
+  },
+  {
+    c: "Online Services",
     d: "plus.google.com",
     r: 0,
     s: "Google Plus",
